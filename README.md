@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Deivid Raimundo
 
 - 🔭 Estou trabalhando como estagiário no setor de tecnologia da informação
-- 🌱 Estudando HTML, CSS, JavaScript e Java
+- 🌱 Java
 - 💬 Contate-me no email: deivid.raimundo@hotmail.com
 - 😄 Pronouns: ele/dele
 
@@ -12,9 +12,6 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="deivid-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="deivid-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="deivid-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="deivid-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
   
