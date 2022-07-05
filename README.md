@@ -13,6 +13,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="deivid-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="deivid-Go" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
 </div>
   
   ##
