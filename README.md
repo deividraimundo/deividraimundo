@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Deivid Raimundo
 
 - 🔭 Estou trabalhando como estagiário no setor de tecnologia da informação
-- 🌱 Java
+- 🌱 Java, Go Lang, HTML5, CSS3, JavaScript
 - 💬 Contate-me no email: deivid.raimundo@hotmail.com
 - 😄 Pronouns: ele/dele
 
