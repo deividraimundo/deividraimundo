@@ -1,4 +1,4 @@
-### Olá! Eu sou o Deivid Raimundo
+### Olá! Eu sou o Deivid
 
 - 🔭 Estou trabalhando como estagiário no setor de tecnologia da informação
 - 🌱 Java, Go Lang, HTML5, CSS3, JavaScript
