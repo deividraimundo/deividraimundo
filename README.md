@@ -1,9 +1,8 @@
 ### Olá! Eu sou o Deivid
 
-- 🔭 Estou trabalhando como estagiário no setor de tecnologia da informação
+- 🔭 Estou trabalhando como estagiário de desenvolvimento
 - 🌱 Java, Go Lang, HTML5, CSS3, JavaScript
 - 💬 Contate-me no email: deivid.raimundo@hotmail.com
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/deividraimundo">
@@ -12,8 +11,11 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="deivid-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="deivid-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="deivid-Go" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
+  <img align="center" alt="deivid-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="deivid-Css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img align="center" alt="deivid-Css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 </div>
   
   ##
