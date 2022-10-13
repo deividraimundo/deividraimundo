@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Deivid
 
 - 🔭 Estou trabalhando como estagiário de desenvolvimento
-- 🌱 Java, Go Lang, HTML5, CSS3, JavaScript
+- 🌱 Java, GoLang, HTML5, CSS3, JavaScript, React-JS, TypeScript, Docker
 - 💬 Contate-me no email: deivid.raimundo@hotmail.com
 
 <div align="center">
@@ -16,6 +16,9 @@
   <img align="center" alt="deivid-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="deivid-Css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="deivid-Css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img align="center" alt="deivid-Css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="deivid-Css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="deivid-Css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 </div>
   
   ##
